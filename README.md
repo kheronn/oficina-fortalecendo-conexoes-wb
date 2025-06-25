@@ -1,7 +1,7 @@
 # Oficina Fortalecenco Conexões (27/06)
-### Prof Kheronn - NRE Wenceslau Braz - Programação Paraná
+### Prof Kheronn - (Embaixador Programação Paraná) NRE Wenceslau Braz
 
->  Projeto realizado na oficina de Formação para professores da rede estadual do Paraná que lecionam componentes de Programação Paraná, Pensamento COmputacional no Ensino Fundamentl e Médio, e Programação I e II do Ensino Médio. O objetivo é praticar e demonstrar como o HTML, CSS e JavaScript trabalham juntos para criar experiências dinâmicas na web. 
+>  Projeto realizado na oficina de Formação para professores da rede estadual do Paraná que lecionam componentes de Programação Paraná, Pensamento Computacional no Ensino Fundamentl e Médio, e Programação I e II do Ensino Médio. O objetivo é praticar e demonstrar como o HTML, CSS e JavaScript trabalham juntos para criar experiências dinâmicas na web. 
 Nele, criamos um botão que "foge" do cursor do mouse, explorando conceitos fundamentais de programação na prática!
 
 ## 🚀 O Que Você Vai Encontrar
